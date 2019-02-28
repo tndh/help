@@ -1,0 +1,7 @@
+System.Serializable]
+public class SavePlayer: MonoBehaviour
+public SavePlayer(string a,string b)
+{
+
+}
+public static SavePlayer[] myPlayer= new SavePlayer[] { }
